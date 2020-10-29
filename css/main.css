@@ -84,6 +84,7 @@ a {
 .header__slogan {
     font-size: 28px;
     line-height: 42px;
+    margin-bottom: 30px;
 }
 
 .header__arrow {
